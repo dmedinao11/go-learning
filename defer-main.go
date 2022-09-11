@@ -1,4 +1,4 @@
-package main
+package defer
 
 /*
 Defer es un keyword que ejecuta su instrucción posterior después de que la función finalice.
